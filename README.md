@@ -12,7 +12,7 @@ reviewing a junior's work. Every single agent is powered by a Large Language Mod
 modern LCEL pipeline, and orchestrated through a shared memory system that makes them work as one unified brain.
 
 
-LEVEL 1:
+##LEVEL 1:
 🌟 Features
 Multi-Agent Architecture: Specialized agents for searching, reading, writing, and critiquing
 Automated Web Research: Intelligent web search with Tavily API
